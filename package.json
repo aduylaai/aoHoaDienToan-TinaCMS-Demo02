@@ -15,6 +15,7 @@
     "tinacms": "^2.2.2"
   },
   "devDependencies": {
-    "@tinacms/cli": "^1.6.2"
+    "@tinacms/cli": "^1.6.2",
+    "cross-env": "^7.0.3"
   }
 }
